@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 300px;
+    background-color: #13599c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bangers';
+    color: white;
+}
+body{
+    margin: 0;
+}
+
+.isi   {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    align-items: center;
+    justify-content: space-evenly;
+}
