@@ -84,7 +84,7 @@ ul li:hover a{
     height: 100%;
     margin-left: 420px;
 }
-<<<<<<< HEAD
+
 
 .page-nadhif {
     background-color: #13599c;
@@ -113,10 +113,11 @@ hr{
 .MEDSOS-NADHIF {
     margin-left: 125px;
     
-=======
+
 .row {
     display: flex;
 }
+
 .kiri {
     flex: 15%;
     background-color: bisque;
@@ -138,5 +139,4 @@ hr{
 .foto-anjas{
     height: 450px;
     /* padding: 100px; */
->>>>>>> cd370058364e47dcd3a74d207311727977406ca2
 }
