@@ -88,6 +88,7 @@ ul li:hover a{
 }
 
 .content {
+<<<<<<< HEAD
     width: 800px;
     height: 500px;
     border-radius: 10px;
@@ -110,3 +111,65 @@ ul li:hover a{
 p {
     font-size: 20px;
 }
+=======
+    position: fixed;
+    height: 100%;
+    margin-left: 420px;
+}
+
+
+.page-nadhif {
+    background-color: #13599c;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width : 400px; 
+    height: 700px; 
+    float: left; 
+}
+hr{
+    width: 390px;
+    
+}
+.Hobi{
+    
+    float: left;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #13599c;
+}
+.page-nadhif a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.MEDSOS-NADHIF {
+    margin-left: 125px;
+    
+
+.row {
+    display: flex;
+}
+
+.kiri {
+    flex: 15%;
+    background-color: bisque;
+    padding: 20px;
+    height: 600px;
+    margin-top: 25px;
+}
+.tengah {
+    flex : 70%;
+    background-color: white;
+    padding: 20px;
+}
+.medsos a{
+    color: black;
+    padding: 100px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.foto-anjas{
+    height: 450px;
+    /* padding: 100px; */
+}
+>>>>>>> 7904ded4d400c3af83ab546b7b9523dd964720d1
