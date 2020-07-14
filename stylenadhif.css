@@ -1,0 +1,28 @@
+.page-nadhif {
+    background-color: #13599c;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width : 400px; 
+    height: 900px; 
+    float: left; 
+}
+hr{
+    width: 390px;
+    
+}
+.Hobi{
+    
+    float: left;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #13599c;
+}
+.page-nadhif a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.MEDSOS-NADHIF {
+    margin-left: 125px;
+}
+    
